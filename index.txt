@@ -1,24 +1,21 @@
-vCard - Personal Portfolio
+Angshuman Roy - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Angshuman Roy
+Angshuman Roy
+Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+angshuman1roy@gmail.com
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
++91 7085908569
 
 Location
-Sacramento, California, USA
+Howrah, West Bengal, India
 
 # navbar
 
@@ -32,30 +29,30 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Software engineer with end to end delivery experience at Siemens EDA and medical startups, impacting over 100 patients daily while publishing five international papers and maintaining an 8.93 GPA.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Developed an AFS debugging suite that cut regression debug time, architected AWS ML pipelines processing thousands of vitals per day, built non-invasive health monitors, and created real-time accessibility tools for visually impaired users.
 
 
 ## service
 
 What i'm doing
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+alt = machine learning icon
+Machine Learning
+Building robust ML models with TensorFlow, PyTorch and scikit-learn.
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+alt = full stack icon
+Full-Stack Development
+Developing scalable web apps with React, Django and AWS.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+alt = embedded systems icon
+Embedded Systems
+Designing microcontroller-based systems and IoT prototypes.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+alt = research icon
+Research & Publications
+Publishing in IEEE and Springer venues on vision, healthcare and algorithms.
 
 
 ## testimonials
@@ -93,42 +90,38 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Indian Institute of Engineering Science and Technology, Shibpur
+2022 — 2026 (Expected)
+Bachelor of Technology in Computer Science and Technology. CGPA: 8.93/10 (till 6th Semester).
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Student Intern – Siemens EDA
+May 2025 – July 2025
+Built automation for AFS regression failure analysis reducing debug time.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Machine Learning & Full-Stack Engineer Intern – Rhenix Lifesciences
+Oct 2024 – Feb 2025
+Deployed FastAPI on AWS handling 50K+ readings and vision-language models with 94% accuracy.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Student Intern – IIIT Naya Raipur
+July 2024 – Sept 2024
+Developed non-invasive BP/glucose estimation models validated on 5K+ samples.
+
+Research Assistant – IIEST Shibpur
+Feb 2024 – Oct 2024
+Designed an FPTAS for the longest path problem reducing complexity to O(n³).
 
 My skills
 
-Web design
-80%
-Graphic design
-70%
-Branding
+Python
 90%
-WordPress
-50%
+Machine Learning
+85%
+Full-Stack Development
+80%
+Embedded Systems
+70%
 
 
 
